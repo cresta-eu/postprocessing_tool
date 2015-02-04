@@ -1,0 +1,2 @@
+/usr/bin/ar cr libhemelb_unittests.a  CMakeFiles/hemelb_unittests.dir/main.cc.o
+/usr/bin/ranlib libhemelb_unittests.a

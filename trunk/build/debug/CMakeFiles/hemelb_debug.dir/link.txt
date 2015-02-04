@@ -1,0 +1,2 @@
+/usr/bin/ar cr libhemelb_debug.a  CMakeFiles/hemelb_debug.dir/Debugger.cc.o CMakeFiles/hemelb_debug.dir/none/NullDebugger.cc.o
+/usr/bin/ranlib libhemelb_debug.a

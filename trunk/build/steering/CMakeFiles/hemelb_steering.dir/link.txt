@@ -1,0 +1,2 @@
+/usr/bin/ar cr libhemelb_steering.a  CMakeFiles/hemelb_steering.dir/common/SteeringComponentC.cc.o CMakeFiles/hemelb_steering.dir/basic/ClientConnection.cc.o CMakeFiles/hemelb_steering.dir/basic/HttpPost.cc.o CMakeFiles/hemelb_steering.dir/basic/ImageSendComponent.cc.o CMakeFiles/hemelb_steering.dir/basic/Network.cc.o CMakeFiles/hemelb_steering.dir/basic/SimulationParameters.cc.o CMakeFiles/hemelb_steering.dir/basic/SteeringComponentB.cc.o
+/usr/bin/ranlib libhemelb_steering.a

@@ -1,0 +1,6 @@
+/group/SRV/Group-ScientificVisualization/FangChen/hemelb-dev/hemelb/Code/dependencies/CMakeFiles/boost.dir
+/group/SRV/Group-ScientificVisualization/FangChen/hemelb-dev/hemelb/Code/dependencies/CMakeFiles/cppunit.dir
+/group/SRV/Group-ScientificVisualization/FangChen/hemelb-dev/hemelb/Code/dependencies/CMakeFiles/ctemplate.dir
+/group/SRV/Group-ScientificVisualization/FangChen/hemelb-dev/hemelb/Code/CMakeFiles/hemelb.dir
+/group/SRV/Group-ScientificVisualization/FangChen/hemelb-dev/hemelb/Code/dependencies/CMakeFiles/parmetis.dir
+/group/SRV/Group-ScientificVisualization/FangChen/hemelb-dev/hemelb/Code/dependencies/CMakeFiles/tinyxml.dir

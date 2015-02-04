@@ -1,0 +1,2 @@
+/usr/bin/ar cr libhemelb_functionaltests.a  CMakeFiles/hemelb_functionaltests.dir/main.cc.o
+/usr/bin/ranlib libhemelb_functionaltests.a

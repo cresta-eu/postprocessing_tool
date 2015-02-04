@@ -1,0 +1,2 @@
+/usr/bin/ar cr libhemelb_colloidsBCs.a  CMakeFiles/hemelb_colloidsBCs.dir/BoundaryConditions.cc.o
+/usr/bin/ranlib libhemelb_colloidsBCs.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libhemelb_topology.a  CMakeFiles/hemelb_topology.dir/NetworkTopology.cc.o CMakeFiles/hemelb_topology.dir/SingleMachineNetworkTopology.cc.o
+/usr/bin/ranlib libhemelb_topology.a
